@@ -149,7 +149,8 @@ private:
 
   we have also included a QLabel that print the full expression (numbers and operations) that we want to calculate .
 
-  and finally the result of operation betwen rigth and left is assigned to left in order to help us display a complex expression such as (24 \* 23 + 23)!
+  and finally the result of operation betwen rigth and left is assigned to left in order to help us display   
+  a complex expression such as (24 \* 23 + 23)!
 
       NB: this way of working will extremely reduce the enterSlot !
 
