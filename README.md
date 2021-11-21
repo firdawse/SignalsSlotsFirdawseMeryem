@@ -26,7 +26,7 @@ Here is a diagram that shows what an object could contain before Qt, as well as 
 
 ![diagram](1.PNG)
 
-too much intersting things to learn ..., let's create our first Gui Interactive Widget.
+ Let's create our first Gui Interactive Widget.
 
 # Calculator
 
